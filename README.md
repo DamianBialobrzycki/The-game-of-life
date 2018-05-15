@@ -26,7 +26,6 @@ Na wejściu podane zostaną szerokość (x) wysokość (y) planszy oraz liczba t
 Wyjście
 Na wyjściu należy wypisać jedną liczbę – liczbę żywych komórek w największej grupie w K-tej turze gry.
 
-
 Przykład
 
 Wejście
